@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "379745324429",
+    "firebase_url": "https://mvvm-3be6e.firebaseio.com",
+    "project_id": "mvvm-3be6e",
+    "storage_bucket": "mvvm-3be6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379745324429:android:025c6d3ee9f825aa",
+        "android_client_info": {
+          "package_name": "ga.bolehju.mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379745324429-vcte2a1qokn169nrt3u2m1f81obpjfsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ga.bolehju.mvvm",
+            "certificate_hash": "7e469ef5f5d5f6d87e440e4be4bf6a3cbec53769"
+          }
+        },
+        {
+          "client_id": "379745324429-k5lk3hu5ceasgfdg3prnvp81i4j9k11r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_oiB6XoGC5CbY9kvA5mZFbL3UJRV6-ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379745324429-k5lk3hu5ceasgfdg3prnvp81i4j9k11r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
